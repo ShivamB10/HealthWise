@@ -1,0 +1,30 @@
+## Download the following librarays
+
+pip install gradio pydantic numpy keras joblib pytesseract pandas pillow pdf2image regex tensorflow nltk scikit-learn seaborn
+pip install Image
+pip install camelot-py
+pip install camelot-py[cv]
+pip install camelot-py[all]
+pip install pytesseract
+pip install nltk
+pip install stopWords
+pip install pandas
+pip install spacy==2.3.5
+pip install https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-any-py3-none-any.whl
+pip install tabula-py
+pip install SpeechRecognition
+pip install pydub
+pip install nameparser
+pip install pysummarization
+pip install pdf2image
+
+## Install the following dependency on computer
+apt install ghostscript python3-tk
+apt-get install poppler-utils
+sudo apt install tesseract-ocr
+
+
+## Run chatbot.py file
+## close each output that will popup manually
+## go to the terminal and open the link address
+## Enter symptoms like runny nose or upload PDF file "Coronary Angioplasty.pdf" from the project folder
